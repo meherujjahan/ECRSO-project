@@ -3,6 +3,7 @@
   --font-family: "Poppins", sans-serif;
 }
 
+*,
 ::after,
 ::before {
   margin: 0;
@@ -11,16 +12,16 @@
 }
 
 ::selection {
-  color: rgb(6, 250, 34);
+  color: var(--theme-color);
 }
+.theme-color {
+  color: var(--theme-color);
+}
+
 body {
   overflow-x: hidden;
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
-}
-
-.theme-color {
-  color: rgb(89, 174, 89);
 }
 
 .ecrso-img img {
