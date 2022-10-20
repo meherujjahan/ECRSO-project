@@ -53,26 +53,20 @@ ul {
   border-radius: 3px;
 }
 .icon-footer:hover {
-  color: white;
+  color: #000;
   background-color: var(--theme-color);
 }
-
+.footer-title-border {
+  border-bottom: 2px solid rgb(182, 14, 14);
+  width: 70px;
+}
 .icon {
   color: var(--theme-color);
   font-size: x-large;
   padding-right: 5px;
 }
 .bottom-border {
-  line-height: 45px;
-  width: 100px;
+  line-height: 50px;
+  width: 60px;
   border-bottom: 2px solid green;
-}
-.footer button {
-  padding: 5px;
-  border-radius: 5px;
-  color: white;
-  background-color: var(--theme-color);
-}
-.footer input {
-  padding: 5px;
 }

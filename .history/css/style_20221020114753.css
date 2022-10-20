@@ -1,0 +1,45 @@
+:root {
+  --theme-color: darkorange;
+  --font-family: "Roboto", sans-serif;
+  --dark-green: #9cc675;
+  --dark-yellow: #e89a3d;
+  --extra-light-brown: #fdf0d7;
+  --light-brown: #ecd5ab;
+  --dark-brown: #915b40;
+  --light-yellow: #f8e3a8;
+  --light-red: #f3ac99;
+  --light-teal: #a6c8cc;
+  --light-gray: #ddd5d6;
+  --theme-color2: #e89a3d;
+}
+
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: rgb(45, 40, 1);
+  color: black;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.theme-color {
+  color: var(--theme-color);
+}
+
+.ecrso-img img {
+  height: 60px;
+  width: 60px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

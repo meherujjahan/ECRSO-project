@@ -56,7 +56,10 @@ ul {
   color: white;
   background-color: var(--theme-color);
 }
-
+.footer-title-border {
+  border-bottom: 2px solid rgb(182, 14, 14);
+  width: 70px;
+}
 .icon {
   color: var(--theme-color);
   font-size: x-large;
@@ -64,15 +67,6 @@ ul {
 }
 .bottom-border {
   line-height: 45px;
-  width: 100px;
+  width: 70px;
   border-bottom: 2px solid green;
-}
-.footer button {
-  padding: 5px;
-  border-radius: 5px;
-  color: white;
-  background-color: var(--theme-color);
-}
-.footer input {
-  padding: 5px;
 }

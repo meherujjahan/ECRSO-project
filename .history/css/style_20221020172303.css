@@ -69,9 +69,7 @@ ul {
 }
 .footer button {
   padding: 5px;
-  border-radius: 5px;
-  color: white;
-  background-color: var(--theme-color);
+  border-radius: 10px;
 }
 .footer input {
   padding: 5px;
