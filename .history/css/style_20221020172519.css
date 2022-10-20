@@ -68,7 +68,7 @@ ul {
   border-bottom: 2px solid green;
 }
 .footer button {
-  padding: 6px 5px;
+  padding: 6px;
   border-radius: 5px;
   color: white;
   background-color: var(--theme-color);
