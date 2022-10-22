@@ -60,7 +60,7 @@ ul {
 /*------ pre loader style end here --------- */
 /* header start */
 .header {
-  z-index: 99;
+  z-index: 100;
   background-color: white;
 }
 .nav-link {
@@ -77,7 +77,7 @@ main {
 }
 /* header end */
 .ecrso-img img {
-  z-index: 100;
+  position: relative;
   height: 60px;
   width: 60px;
 
