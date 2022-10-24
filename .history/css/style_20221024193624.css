@@ -29,9 +29,6 @@ body {
 .theme-color-2 {
   color: var(--theme-color-2);
 }
-.theme-background-color {
-  background-color: var(--background-color);
-}
 a {
   text-decoration: none;
   color: white;

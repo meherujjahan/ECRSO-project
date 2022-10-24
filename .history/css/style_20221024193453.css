@@ -29,9 +29,6 @@ body {
 .theme-color-2 {
   color: var(--theme-color-2);
 }
-.theme-background-color {
-  background-color: var(--background-color);
-}
 a {
   text-decoration: none;
   color: white;
@@ -130,7 +127,6 @@ ul {
 }
 
 .icon-contract:hover {
-  color: white;
   background-color: var(--theme-color);
   border: 1px solid var(--theme-color);
   transition: 0.6s ease;

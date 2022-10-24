@@ -30,7 +30,7 @@ body {
   color: var(--theme-color-2);
 }
 .theme-background-color {
-  background-color: var(--background-color);
+  background-color: cornsilk;
 }
 a {
   text-decoration: none;
