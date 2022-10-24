@@ -96,21 +96,19 @@ ul {
   font-size: 20px;
 }
 .get-involved-section img {
-  width: 550px;
-  height: 500px;
+  width: 500px;
+  height: 450px;
 }
 .button-1 {
-  margin-top: 10px;
   border: 2px solid var(--theme-color-2);
   color: var(--theme-color-2);
-  background-color: var(--background-color);
+  background-color: white;
   padding: 5px 10px;
-  transition: all 0.2s linear;
 }
 .button-1:hover {
   background-color: var(--theme-color-2);
   color: white;
-  transform: scale(1.1);
+  transition: 0.5ms linear;
 }
 /* footer section start */
 .footer {

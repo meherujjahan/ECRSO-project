@@ -92,25 +92,11 @@ ul {
   color: var(--theme-color-2);
 }
 .get-involved-section h6 {
-  padding: 15px 0px 15px 0px;
-  font-size: 20px;
+  font-size: 15px;
 }
 .get-involved-section img {
-  width: 550px;
-  height: 500px;
-}
-.button-1 {
-  margin-top: 10px;
-  border: 2px solid var(--theme-color-2);
-  color: var(--theme-color-2);
-  background-color: var(--background-color);
-  padding: 5px 10px;
-  transition: all 0.2s linear;
-}
-.button-1:hover {
-  background-color: var(--theme-color-2);
-  color: white;
-  transform: scale(1.1);
+  width: 500px;
+  height: 450px;
 }
 /* footer section start */
 .footer {
