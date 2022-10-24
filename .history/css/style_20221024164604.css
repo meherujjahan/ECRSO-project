@@ -1,7 +1,7 @@
 :root {
   --theme-color: green;
-  --theme-color-2: tomato;
-  --background-color: cornsilk;
+  --theme-color: tomato;
+
   --font-family: "Roboto", sans-serif;
 }
 
@@ -67,15 +67,16 @@ ul {
 .nav-link {
   font-weight: bold;
 }
-/* .sticky {
+.sticky {
   position: fixed;
   top: 0;
   width: 100%;
   border-bottom: 1px green;
+}
+/* main {
+  z-index: 1;
 } */
-
 /* header end */
-
 .ecrso-img img {
   height: 60px;
   width: 60px;
@@ -84,18 +85,6 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
-/*get involved page start*/
-.get-involved-section {
-  background-color: var(--background-color);
-}
-.get-involved-section h1 {
-  color: var(--theme-color-2);
-}
-.get-involved-section img {
-  width: 500px;
-  height: 450px;
-}
-/* footer section start */
 .footer {
   color: white;
   background-color: rgb(0, 0, 0);

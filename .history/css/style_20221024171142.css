@@ -91,10 +91,7 @@ ul {
 .get-involved-section h1 {
   color: var(--theme-color-2);
 }
-.get-involved-section img {
-  width: 500px;
-  height: 450px;
-}
+
 /* footer section start */
 .footer {
   color: white;
