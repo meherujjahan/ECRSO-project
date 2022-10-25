@@ -189,10 +189,7 @@ ul {
   -webkit-transition: all 0.3s ease-in;
   -moz-transition: all 0.3s ease-in;
 }
-#team .card img {
-  height: 250px;
-  width: 260px;
-}
+
 #team .card:hover {
   /* background: #e74c3c; */
   color: #fff;

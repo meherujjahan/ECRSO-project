@@ -190,8 +190,8 @@ ul {
   -moz-transition: all 0.3s ease-in;
 }
 #team .card img {
-  height: 250px;
-  width: 260px;
+  height: 200px;
+  width: 250px;
 }
 #team .card:hover {
   /* background: #e74c3c; */
