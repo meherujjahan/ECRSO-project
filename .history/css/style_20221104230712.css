@@ -107,6 +107,8 @@ ul {
   width: 100%;
 }
 .about-section-text h1 {
+  display: flex;
+  align-items: center;
   position: relative;
   color: white;
   font-weight: 700;

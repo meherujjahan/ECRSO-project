@@ -106,11 +106,8 @@ ul {
   height: 400px;
   width: 100%;
 }
-.about-section-text h1 {
+.about-section-text {
   position: relative;
-  color: white;
-  font-weight: 700;
-  font-size: 55px;
 }
 .img-center img {
   display: block;

@@ -97,20 +97,13 @@ ul {
   font-size: 50px;
   font-weight: 550;
 }
-.about-section {
-  position: relative;
-}
 .about-section-bg {
   opacity: 0.6;
   position: absolute;
-  height: 400px;
+  left: 0;
+  top: 0;
   width: 100%;
-}
-.about-section-text h1 {
-  position: relative;
-  color: white;
-  font-weight: 700;
-  font-size: 55px;
+  height: auto;
 }
 .img-center img {
   display: block;
@@ -169,7 +162,6 @@ ul {
 /* contract page end */
 /* footer section start */
 .footer {
-  position: relative;
   color: white;
   background-color: rgb(0, 0, 0);
 }

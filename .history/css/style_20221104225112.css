@@ -103,14 +103,12 @@ ul {
 .about-section-bg {
   opacity: 0.6;
   position: absolute;
-  height: 400px;
+
   width: 100%;
+  height: auto;
 }
-.about-section-text h1 {
+.about-section-text {
   position: relative;
-  color: white;
-  font-weight: 700;
-  font-size: 55px;
 }
 .img-center img {
   display: block;
@@ -169,7 +167,7 @@ ul {
 /* contract page end */
 /* footer section start */
 .footer {
-  position: relative;
+  position: inherit;
   color: white;
   background-color: rgb(0, 0, 0);
 }
