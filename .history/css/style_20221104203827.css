@@ -92,11 +92,6 @@ ul {
 .banner {
   background-color: var(--background-color);
 }
-.banner-text h1 {
-  color: var(--theme-color-2);
-  font-size: 50px;
-  font-weight: 550;
-}
 .img-center img {
   display: block;
   margin-left: auto;
