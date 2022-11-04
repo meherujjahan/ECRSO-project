@@ -89,11 +89,9 @@ ul {
   margin-right: auto;
 }
 /* home page start  */
-.img-center img {
-  display: block;
+.img-center {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 /* home page end  */

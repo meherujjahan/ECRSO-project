@@ -82,22 +82,12 @@ ul {
 
 /* header end */
 
-.ecrso-img img {
+.center img {
   height: 60px;
   width: 60px;
   margin-left: auto;
   margin-right: auto;
 }
-/* home page start  */
-.img-center img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-/* home page end  */
-
 /*get involved page start*/
 .get-involved-section {
   background-color: var(--background-color);
