@@ -98,19 +98,16 @@ ul {
   font-weight: 550;
 }
 .about-section {
-  background-color: rgba(255, 99, 71, 0.644);
-
+  position: relative;
   margin-bottom: 20%;
 }
 .about-section-bg {
-  filter: blur(3px);
+  filter: blur(5px);
   position: absolute;
   height: 400px;
   width: 100%;
-  margin-bottom: 10px;
 }
-.about-section-text {
-  top: 150px;
+.about-section-text h1 {
   position: relative;
   color: white;
   font-weight: 700;
