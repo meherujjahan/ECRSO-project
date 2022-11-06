@@ -243,8 +243,8 @@ ul {
   -moz-transition: all 0.3s ease-in;
 }
 #team .card img {
-  width: 180px;
-  height: 180px;
+  width: 250px;
+  height: 250px;
 }
 
 /* #team .card:hover {
