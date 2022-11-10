@@ -206,16 +206,11 @@ ul {
 .fa-heart,
 .fa-droplet,
 .fa-child {
-  color: #fff;
-  background-color: var(--theme-color);
+  background-color: red;
   padding: 20px;
   margin-bottom: 5px;
   border-radius: 50px;
   font-size: 30px;
-}
-.fa-seedling,
-.fa-droplet {
-  background-color: red !important;
 }
 
 /* program page end */

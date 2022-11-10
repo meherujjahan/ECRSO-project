@@ -201,21 +201,12 @@ ul {
   /* background-color: rgba(128, 128, 128, 0.311); */
   padding: 20px 0px;
 }
-.fa-smog,
-.fa-seedling,
-.fa-heart,
-.fa-droplet,
-.fa-child {
-  color: #fff;
-  background-color: var(--theme-color);
+.small-card .fa-smog {
+  background-color: red;
   padding: 20px;
   margin-bottom: 5px;
   border-radius: 50px;
   font-size: 30px;
-}
-.fa-seedling,
-.fa-droplet {
-  background-color: red !important;
 }
 
 /* program page end */

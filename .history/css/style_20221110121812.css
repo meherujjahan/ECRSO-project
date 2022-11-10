@@ -194,28 +194,8 @@ ul {
 
 /* team page end */
 /* program page start */
-.small-card {
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
-    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-  /* margin-right: 10px; */
-  /* background-color: rgba(128, 128, 128, 0.311); */
-  padding: 20px 0px;
-}
-.fa-smog,
-.fa-seedling,
-.fa-heart,
-.fa-droplet,
-.fa-child {
-  color: #fff;
-  background-color: var(--theme-color);
-  padding: 20px;
-  margin-bottom: 5px;
-  border-radius: 50px;
-  font-size: 30px;
-}
-.fa-seedling,
-.fa-droplet {
-  background-color: red !important;
+.small-card .fa-smog {
+  font-size: 60px;
 }
 
 /* program page end */
