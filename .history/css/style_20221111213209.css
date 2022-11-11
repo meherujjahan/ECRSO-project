@@ -229,10 +229,9 @@ ul {
   color: rgb(39, 36, 36);
   background-color: var(--background-color);
 }
-.programm-slider p {
-  font-size: 17px;
-  font-family: "Roboto Slab", serif;
-}
+/* .programm-slider p {
+  font-family: "Poppins", sans-serif;
+} */
 .carousel-item h4 {
   color: tomato;
 }

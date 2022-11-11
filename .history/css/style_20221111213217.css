@@ -230,8 +230,7 @@ ul {
   background-color: var(--background-color);
 }
 .programm-slider p {
-  font-size: 17px;
-  font-family: "Roboto Slab", serif;
+  font-family: "Poppins", sans-serif;
 }
 .carousel-item h4 {
   color: tomato;

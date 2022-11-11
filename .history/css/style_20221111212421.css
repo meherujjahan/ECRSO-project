@@ -33,7 +33,9 @@ body {
 .theme-background-color {
   background-color: var(--background-color);
 }
-
+b {
+  font-family: "Poppins", sans-serif;
+}
 a {
   text-decoration: none;
   color: white;
@@ -228,10 +230,6 @@ ul {
 .programm-slider {
   color: rgb(39, 36, 36);
   background-color: var(--background-color);
-}
-.programm-slider p {
-  font-size: 17px;
-  font-family: "Roboto Slab", serif;
 }
 .carousel-item h4 {
   color: tomato;
