@@ -16,14 +16,18 @@
 
 /* ============= Small Screen Mobile view=========== */
 @media (max-width: 426px) {
+  .banner-text h1 {
+    font-size: 10px;
+    font-weight: 350;
+  }
+}
+/* ============= Small Screen Mobile view=========== */
+@media (max-width: 376px) {
   .top-banner-text h3 {
     font-size: 15px;
   }
   .top-banner-text p {
     font-size: 5px;
-  }
-  .banner {
-    padding: 10px 15px !important;
   }
   .banner img {
     display: block;
@@ -41,9 +45,6 @@
   .bold-text {
     font-size: 10px;
     padding: 0px !important;
-  }
-  .about-section {
-    padding: 0px 0px 30px 0px !important;
   }
   .about-section img {
     filter: blur(3px);
@@ -64,7 +65,6 @@
   }
   .about-section-main p {
     font-size: 12px;
-    padding: 0px 15px;
   }
   .footer h3 {
     font-size: 18px;
@@ -105,7 +105,7 @@
     padding: 0px !important;
   }
   .about-section {
-    padding: 0px 0px 30px 0px !important;
+    padding: 0px 0px 10px 0px !important;
   }
   .about-section img {
     filter: blur(3px);
@@ -137,28 +137,5 @@
   }
   .footer p {
     font-size: 13px;
-  }
-  .get-involved-section {
-    padding: 10px 10px !important;
-  }
-  .get-involved-title h1 {
-    font-size: 25px;
-  }
-  .get-involved-title h6 {
-    font-size: 15px;
-  }
-  .get-involved-card h1 {
-    font-size: 25px;
-  }
-  .get-involved-card h6 {
-    font-size: 17px;
-  }
-  .get-involved-card p {
-    font-size: 14px;
-    line-height: 20px;
-  }
-  .get-involved-card img {
-    padding-top: 10px;
-    height: 150px;
   }
 }

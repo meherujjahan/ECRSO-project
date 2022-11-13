@@ -138,27 +138,14 @@
   .footer p {
     font-size: 13px;
   }
-  .get-involved-section {
-    padding: 10px 10px !important;
-  }
-  .get-involved-title h1 {
-    font-size: 25px;
-  }
-  .get-involved-title h6 {
-    font-size: 15px;
-  }
   .get-involved-card h1 {
     font-size: 25px;
   }
   .get-involved-card h6 {
-    font-size: 17px;
+    font-size: 18px;
   }
   .get-involved-card p {
     font-size: 14px;
-    line-height: 20px;
-  }
-  .get-involved-card img {
-    padding-top: 10px;
-    height: 150px;
+    line-height: auto px;
   }
 }
