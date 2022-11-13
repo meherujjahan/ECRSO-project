@@ -56,6 +56,8 @@
     padding: 0px !important;
   }
   .about-section-bg {
+    filter: blur(3px);
+
     width: 100%;
     margin-bottom: 10px;
   }
