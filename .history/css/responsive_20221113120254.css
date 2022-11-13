@@ -84,9 +84,6 @@
   .top-banner-text p {
     font-size: 5px;
   }
-  .banner {
-    padding: 0px 10px !important;
-  }
   .banner img {
     display: block;
     margin-left: auto;
@@ -123,7 +120,6 @@
   }
   .about-section-main p {
     font-size: 12px;
-    padding: 0px 15px;
   }
   .footer h3 {
     font-size: 18px;
