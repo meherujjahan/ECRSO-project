@@ -23,36 +23,17 @@
 }
 /* ============= Small Screen Mobile view=========== */
 @media (min-width: 376px) {
-  .top-banner-text h3 {
-    font-size: 5px;
-  }
   .banner-text h1 {
     font-size: 10px;
     font-weight: 350;
   }
 }
 @media (min-width: 320px) {
-  .top-banner-text h3 {
-    font-size: 15px;
-  }
-  .top-banner-text p {
-    font-size: 5px;
-  }
-  .banner img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-  }
   .banner-text h1 {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 350;
   }
   .banner-text {
-    padding: 20px 0px !important;
-  }
-  .bold-text {
-    font-size: 10px;
-    padding: 0px !important;
+    padding: 0;
   }
 }

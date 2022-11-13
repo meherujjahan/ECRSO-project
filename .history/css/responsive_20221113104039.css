@@ -1,0 +1,30 @@
+/* =======desktop view========  */
+@media (min-width: 2561px) {
+}
+
+/* =======desktop view======== */
+@media (min-width: 1441px) {
+}
+
+/* =======desktop and laptop view======== */
+@media (min-width: 1024px) {
+}
+
+/* =======Mobile phones view======== */
+@media (min-width: 769px) {
+}
+
+/* ============= Small Screen Mobile view=========== */
+@media (min-width: 426px) {
+  .banner-text h1 {
+    font-size: 140px;
+    font-weight: 350;
+  }
+}
+/* ============= Small Screen Mobile view=========== */
+@media (min-width: 376px) and (min-width: 320px) {
+  .banner-text h1 {
+    font-size: 140px;
+    font-weight: 350;
+  }
+}
