@@ -44,6 +44,31 @@ ul {
   margin: 0px;
 }
 
+/* * pre loader style added */
+
+.preloader {
+  align-items: center;
+  background: #fff;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  left: 0;
+  position: fixed;
+  top: 0;
+  transition: opacity 0.2s linear;
+  width: 100%;
+  z-index: 9999;
+  opacity: 1;
+  transform: opacity 1s linear;
+}
+.loader-bg {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+}
+/*------ pre loader style end here --------- */
 /* header start */
 .header {
   z-index: 99;
@@ -52,6 +77,12 @@ ul {
 .nav-link {
   font-weight: bold;
 }
+/* .sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 1px green;
+} */
 
 /* header end */
 

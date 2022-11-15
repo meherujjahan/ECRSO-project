@@ -1,3 +1,6 @@
+setTimeout(function () {
+  $('.loader-bg').fadeToggle();
+}, 1500);
 
 // scroll to top of the page
 const button = document.querySelector(".top-btn");
