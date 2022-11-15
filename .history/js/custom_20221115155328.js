@@ -1,8 +1,3 @@
-// preloader js code starts from here
-setTimeout(function () {
-  $('.loader-bg').fadeToggle();
-}, 1500);
-
 // scroll to top of the page
 const button = document.querySelector(".top-btn");
 
@@ -33,6 +28,10 @@ displayButton();
 scrollToTop();
 
 
+// preloader js code starts from here
+setTimeout(function () {
+  $('.loader-bg').fadeToggle();
+}, 1500);
 
 
 // js code for footer starts from here

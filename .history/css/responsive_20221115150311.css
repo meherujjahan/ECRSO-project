@@ -16,18 +16,14 @@
 
 /* ============= Small Screen Mobile view=========== */
 @media (max-width: 426px) {
-  p {
-    font-size: 13px;
-  }
-  h5 {
-    font-size: 16px;
-  }
   .top-banner-text h3 {
     font-size: 15px;
   }
-
+  .top-banner-text p {
+    font-size: 5px;
+  }
   .banner {
-    padding: 0px 10px !important;
+    padding: 10px 15px !important;
   }
   .banner img {
     display: block;
@@ -67,7 +63,7 @@
     font-size: 15px;
   }
   .about-section-main p {
-    font-size: 13px;
+    font-size: 12px;
     padding: 0px 15px;
   }
   .footer h3 {
@@ -77,55 +73,8 @@
   .footer b {
     font-size: 13px;
   }
-
-  .get-involved-section {
-    padding: 10px 10px !important;
-  }
-  .get-involved-title h1 {
-    font-size: 25px;
-  }
-  .get-involved-title h6 {
-    font-size: 15px;
-  }
-  .get-involved-card h1 {
-    font-size: 25px;
-  }
-  .get-involved-card h6 {
-    font-size: 17px;
-  }
-  .get-involved-card p {
-    font-size: 14px;
-    line-height: 20px;
-  }
-  .get-involved-card img {
-    padding-top: 10px;
-    height: 180px;
-  }
-  .carousel-item img {
-    width: 250px;
-    height: 250px;
-  }
-
-  .gallery-img-1 {
-    padding: 0px !important;
-    margin: 0px !important;
-  }
-  .gallery-img-2,
-  .gallery-img-3,
-  .gallery-img-4,
-  .gallery-img-5 {
-    display: none;
-  }
-  .contarct-messege {
-    margin-top: 30px !important;
-    padding: 5px !important;
-  }
-  .mapouter {
-    padding: 15px !important;
-  }
-  .gmap_canvas iframe {
-    width: 250px;
-    height: 150px;
+  .footer p {
+    font-size: 13px;
   }
 }
 @media (max-width: 325px) {
@@ -138,7 +87,9 @@
   .top-banner-text h3 {
     font-size: 15px;
   }
-
+  /* .top-banner-text p {
+    font-size: 5px;
+  } */
   .banner {
     padding: 0px 10px !important;
   }
@@ -180,7 +131,6 @@
     font-size: 15px;
   }
   .about-section-main p {
-    font-size: 12px;
     padding: 0px 15px;
   }
   .footer h3 {
@@ -234,10 +184,7 @@
     padding: 5px !important;
   }
   .mapouter {
-    padding: 15px !important;
-  }
-  .gmap_canvas iframe {
-    width: 250px;
-    height: 150px;
+    width: 100px !important;
+    height: 100px;
   }
 }
