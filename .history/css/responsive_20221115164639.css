@@ -114,8 +114,8 @@
     padding: 15px !important;
   }
   .gmap_canvas iframe {
-    width: 450px;
-    height: 250px;
+    width: 250px;
+    height: 150px;
   }
 }
 

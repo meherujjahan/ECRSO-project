@@ -48,7 +48,7 @@
   .about-section img {
     filter: blur(3px);
     position: absolute;
-    height: 260px;
+    height: 150px;
     width: 100%;
     padding: 0px !important;
   }
@@ -56,28 +56,28 @@
     border-radius: 40px;
     padding: 10px 25px;
     background-color: #fff;
-    top: 100px;
+    top: 50px;
     color: rgb(0, 0, 0);
-    font-weight: 400;
-    font-size: 17px;
+    font-weight: 200;
+    font-size: 15px;
   }
   .about-section-main p {
-    font-size: 14px;
+    font-size: 13px;
     padding: 0px 15px;
   }
   .footer h3 {
-    font-size: 20px;
-    font-weight: 300;
+    font-size: 18px;
+    font-weight: 200;
   }
   .footer b {
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .get-involved-section {
     padding: 10px 10px !important;
   }
   .get-involved-title h1 {
-    font-size: 32px;
+    font-size: 25px;
   }
   .get-involved-title h6 {
     font-size: 15px;
@@ -94,7 +94,7 @@
   }
   .get-involved-card img {
     padding-top: 10px;
-    height: 300px;
+    height: 180px;
   }
   .carousel-item img {
     width: 250px;
@@ -105,7 +105,12 @@
     padding: 0px !important;
     margin: 0px !important;
   }
-
+  .gallery-img-2,
+  .gallery-img-3,
+  .gallery-img-4,
+  .gallery-img-5 {
+    display: none;
+  }
   .contarct-messege {
     margin-top: 30px !important;
     padding: 5px !important;
@@ -114,8 +119,8 @@
     padding: 15px !important;
   }
   .gmap_canvas iframe {
-    width: 450px;
-    height: 250px;
+    width: 250px;
+    height: 150px;
   }
 }
 

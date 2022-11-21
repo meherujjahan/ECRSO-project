@@ -13,7 +13,7 @@
 /* =======Mobile phones view======== */
 @media (max-width: 769px) {
   p {
-    font-size: 14px;
+    font-size: 15px;
   }
   h5 {
     font-size: 18px;
@@ -114,8 +114,8 @@
     padding: 15px !important;
   }
   .gmap_canvas iframe {
-    width: 450px;
-    height: 250px;
+    width: 250px;
+    height: 150px;
   }
 }
 
