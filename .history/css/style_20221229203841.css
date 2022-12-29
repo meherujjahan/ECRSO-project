@@ -209,8 +209,8 @@ ul {
 }
 /* program page end */
 
-/* contract page start */
-.icon-contract {
+/* contact page start */
+.icon-contact {
   color: rgb(6, 6, 6);
   font-size: 30px;
   border: 1px solid #000;
@@ -219,7 +219,7 @@ ul {
   background-color: #fff;
 }
 
-.icon-contract:hover {
+.icon-contact:hover {
   color: white;
   background-color: var(--theme-color);
   border: 1px solid var(--theme-color);
@@ -233,7 +233,7 @@ ul {
   height: 500px;
 }
 
-/* contract page end */
+/* contact page end */
 /* footer section start */
 .footer {
   position: relative;
