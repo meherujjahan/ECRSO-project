@@ -256,9 +256,6 @@ ul {
   font-size: x-large;
   padding-right: 5px;
 }
-footer b {
-  cursor: pointer;
-}
 footer b:hover {
   color: var(--theme-color);
 }
